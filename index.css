@@ -1,0 +1,82 @@
+.navbar{
+    background-color:rgb(62, 62, 246);
+}
+.navbar a{
+    color: white;
+    margin-right: 30px;
+}
+.navbar h5{
+    color: white;
+    margin-left: 20px;
+}
+
+.sigmain{
+    width:100px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.sigmain ul li input{
+    width: 250px;
+}
+.card li input{
+    border-radius: 8px;
+    width: 255px;
+    height: 30px;
+    border: 3px solid whitesmoke;
+}
+.logmain{
+    width:100px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.postpub_ctn{
+    justify-content: center;
+    align-items: center;
+}
+
+.postpub{
+    /* background-color: antiquewhite; */
+    width: 1300px;
+    height: 400px;
+    padding: 35px;
+    /* justify-content: center; */
+    /* display: flex; */
+}
+.testinp{
+    width: 800px;
+    height: 50px;
+    margin-left: 150px;
+    border: 4px solid rgb(236, 236, 236);
+    border-radius: 10px;
+
+}.testinp1{
+    width: 800px;
+    height: 110px;
+    margin-left: 150px;
+    border: 4px solid rgb(236, 236, 236);
+    border-radius: 10px;
+
+
+}
+.bot{
+    margin-left: 153px;
+width: 120px;
+}
+.Post_card{
+    border: 2px solid rgb(93, 93, 237);
+    border-radius:8px ;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+
+/* .mf{
+    border: 2px solid rgb(111, 111, 156);
+} */
